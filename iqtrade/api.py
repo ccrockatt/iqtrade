@@ -45,6 +45,7 @@ class AccountType(Enum):
     PRIF = 12
     RESP = 13
     FRESP = 14
+    FHSA = 15
 
 
 class ClientAccountType(Enum):
